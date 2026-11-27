@@ -1,6 +1,6 @@
 cask "as-1" do
   version "1.01,10010"
-  sha256 "42c3ec5d59c53aa0b0d0128329f96f0ed176430eacf77862a828801bd8d768b0"
+  sha256 "7a57f7e6eda055e09cd1055d48ebdc10e4fdfd4d842b4f703ee8ff34afeac9a4"
 
   url "https://github.com/AIIO2/AIIO2-Audio-Stabilizer/releases/download/v1.01-beta/AIIO2-AS-1-V1.01-BETA.zip"
   name "AIIO² Audio Stabilizer"
